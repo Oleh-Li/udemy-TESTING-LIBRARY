@@ -6,7 +6,7 @@ function App() {
     <div>
       <h1>Sundaes on Demand</h1>
       <SummaryForm />
-      <Options optionType={'scoops'} />
+      <Options optionType={'toppings'} />
     </div>
   );
 }
